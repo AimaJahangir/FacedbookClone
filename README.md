@@ -1,50 +1,65 @@
-# Welcome to your Expo app 👋
+# 📱 Facebook Clone App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A simple Facebook clone built using React Native. This app demonstrates core social media UI features with three main screens: Home, Search, and Profile.
 
-## Get started
+---
 
-1. Install dependencies
+## 🚀 Features
 
-   ```bash
-   npm install
-   ```
+* 🏠 **Home Screen**
 
-2. Start the app
+  * View posts
+  * Scrollable feed
+  * Basic UI similar to Facebook timeline
 
-   ```bash
-   npx expo start
-   ```
+* 🔍 **Search Screen**
 
-In the output, you'll find options to open the app in a
+  * Search users or content
+  * Clean and simple search interface
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+* 👤 **Profile Screen**
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+  * View user profile
+  * Display name, profile picture, and posts
 
-## Get a fresh project
+---
 
-When you're ready, run:
+## 🛠️ Technologies Used
 
-```bash
-npm run reset-project
-```
+* React Native
+* JavaScript (ES6)
+* Expo 
+* VS Code
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+---
 
-## Learn more
+## 📸 Screens
 
-To learn more about developing your project with Expo, look at the following resources:
+* Home Screen
+* Search Screen
+* Profile Screen
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+(Add screenshots here if available)
 
-## Join the community
+---
 
-Join our community of developers creating universal apps.
+## 🎯 Purpose
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+This project is created for learning purposes to understand:
+
+* Navigation in React Native
+* UI design
+* Component structure
+
+---
+
+## 📌 Future Improvements
+
+* Add authentication (login/signup)
+* Connect to backend (Firebase / API)
+* Add real-time posts
+* Improve UI/UX
+
+---
+
+
